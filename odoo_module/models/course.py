@@ -6,4 +6,3 @@ class Course(modules.Model):
 
     _name = 'academy.course'
     _description = 'Course Info'
-    
